@@ -135,7 +135,6 @@ const LoginCover = (props) => {
       <section
         style={{
           minHeight: "100vh",
-          background: "rgb(11,60,101)",
           background:
             "linear-gradient(90deg, rgba(11,60,101,1) 0%, rgba(11,60,101,1) 35%, rgba(75,121,157,1) 100%)",
           display: "flex",
